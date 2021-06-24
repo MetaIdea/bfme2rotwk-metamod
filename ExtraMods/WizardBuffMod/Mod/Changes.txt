@@ -1,0 +1,4 @@
+- wizards have 100 attribute points
+- wizards can have the tornado ability
+- all level 10 abilities can be added as level 7 abilities
+- no recharge for hero teleportation 

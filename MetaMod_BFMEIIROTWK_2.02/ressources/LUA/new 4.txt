@@ -1,0 +1,20 @@
+BFMEII_ROTWK_OBJECT_LIST_NEUTRAL = {
+"MordorBalrog",
+"NeutralGollum",
+"MordorShelob",
+"RohanOathbreaker",
+"RohanOathbreaker1",
+"RohanOathbreakersCavalry",
+"Marker",
+"Crebain",
+"WildBatCloud",
+"IsengardMurderOfCrows",
+"RohanPeasant",
+"RohanPeasant1",
+"RohanPeasantHorde",
+"GaladrielTornado",
+"ElrondWhirlwind",
+"ElvenWhirlpool",
+"AngmarShadeWolf",
+"ShadeCallthePack"
+}

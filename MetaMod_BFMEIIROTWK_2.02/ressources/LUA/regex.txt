@@ -1,0 +1,13 @@
+\s([a-zA-Z0-9_]+)\s*$
+.*(TEXT YOU WANT TO KEEP).*
+
+
+
+.*(\s([a-zA-Z0-9_]+)\s*$).*
+ERSETZEN MIT
+$1
+
+Leerzeichen am Ende ersetzen:
+\s+$
+
+",\n"

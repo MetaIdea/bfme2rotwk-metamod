@@ -1,0 +1,43 @@
+out("\nHERO")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"HERO"}))
+out("\nARCHER")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"ARCHER"}))
+out("\nINFANTRY HORDE")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"INFANTRY", "HORDE"}))
+out("\nARCHER HORDE")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"ARCHER", "HORDE"}))
+out("\nSTRUCTURE SCORE")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"STRUCTURE", "SCORE"}))
+out("\nMACHINE")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"MACHINE"}))
+out("\nCAVALRY")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"CAVALRY"}))
+out("\nMONSTER")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"MONSTER"}))
+out("\nBIG_MONSTER")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"BIG_MONSTER"}))
+out("\nHUGE_VEHICLE")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"HUGE_VEHICLE"}))
+out("\nSUMMONED")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"SUMMONED"}))
+out("\nNO_FREEWILL_ENTER")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"NO_FREEWILL_ENTER"}))
+out("\nORC")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"ORC"}))
+out("\nGIMLI")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"GIMLI"}))
+out("\nPATH_THROUGH_EACH_OTHER")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"PATH_THROUGH_EACH_OTHER"}))
+out("\nHORDE")
+PrintTable(GetObjectTypeListOfKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"HORDE"}))
+out("\n")
+ExecuteAction("MAP_EXIT")
+--PrintTable(GetObjectTypeKindOfList(BFMEII_ROTWK_OBJECT_LIST_ALL, "INFANTRY"))
+--WriteKindofList(BFMEII_ROTWK_OBJECT_LIST_ALL, {"INFANTRY", CAN_ATTACK"})
+--"PATH_THROUGH_EACH_OTHER" 
+--"SELECTABLE", "CAN_CAST_REFLECTIONS", "SCORE"
+--"CAVALRY"]=9, ["MONSTER" "STRUCTURE" "MACHINE" "HUGE_VEHICLE"
+-- "GIMLI",
+-- "ORC",
+-- "HORDE"
+-- "BIG_MONSTER"

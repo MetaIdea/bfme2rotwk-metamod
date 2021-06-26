@@ -1,5 +1,5 @@
 # BFME2ROTWK-MetaMod
-Bfme2 rotwk port of meta mod from C&amp;C3KW.
+Bfme2 rotwk port of meta mod from C&amp;C3KW: https://github.com/MetaIdea/cnc3-metamod
 
 It adds a powerfull new ingame menu with hundreds of options. Allows the ultimate sandbox experience. It also allows you run lua scripts live ingame from a external file (path: C:\Users\YourUsername\Documents\MetaModIO\LIVE_INPUT.lua).
 
